@@ -50,6 +50,9 @@ This is a mini-project for SC1015 (Introduction to Data Science and Artificial I
 - Implementing 5 new Machine Learning models for prediction 
 - Collaborating using GitHub
 
+## Note:
+- Interactive Plotly graphs do not show in github
+
 ## References
 - <https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand>
 - <https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python>
