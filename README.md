@@ -34,6 +34,7 @@ This is a mini-project for SC1015 (Introduction to Data Science and Artificial I
 ## Recommendations
 
 - Lead time : Allow reservations up to 200 days in advance, chance of cancellation increases linearly from there to 400 days. 
+- Day/Month : Thursday - Saturday especially during April - October have higher cancellation rates. Allow for more over-booking during this period.
 
 ## What did we learn from this project?
 
