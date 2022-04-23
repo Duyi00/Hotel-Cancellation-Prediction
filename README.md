@@ -3,10 +3,10 @@
 ## About
 This is a mini-project for SC1015 (Introduction to Data Science and Artificial Intelligence).
 
-1. [Data Preparation and Cleaning]()
-2. [Data Analysis and Visualization Part 1]()
-3. [Data Analysis and Visualization Part 2]()
-4. [Machine Learning]()
+
+1. [Data Preparation and Cleaning, Data Analysis and Visualization Part 1]()
+2. [Data Analysis and Visualization Part 2, Machine Learning]()
+
 
 ## Contributors
 
@@ -55,3 +55,4 @@ This is a mini-project for SC1015 (Introduction to Data Science and Artificial I
 - <https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python>
 - <https://blog.experience-hotel.com/where-do-cancellations-come-from/#:~:text=Average%20cancellation%20rates&text=The%20average%20percentage%20of%20canceled,no%20room%20for%20nasty%20surprises.>
 - <https://www.sciencedirect.com/science/article/pii/S2352340918315191>
+- <https://towardsdatascience.com/decision-trees-understanding-the-basis-of-ensemble-methods-e075d5bfa704>
