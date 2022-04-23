@@ -5,7 +5,7 @@ This is a mini-project for SC1015 (Introduction to Data Science and Artificial I
 
 
 1. [Data Preparation and Cleaning, Data Analysis and Visualization Part 1]()
-2. [Data Analysis and Visualization Part 2, Machine Learning]()
+2. [Data Analysis and Visualization Part 2, Machine Learning](https://github.com/Duyi00/Hotel-Cancellation-Prediction/blob/main/1015%20(Data%20Analysis%20and%20Visualisation%20Part%202%2C%20Machine%20Learning).ipynb)
 
 
 ## Contributors
