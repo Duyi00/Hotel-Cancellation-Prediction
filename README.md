@@ -1,12 +1,8 @@
 # Hotel-Cancellation-Prediction
 
 ## About
+
 This is a mini-project for SC1015 (Introduction to Data Science and Artificial Intelligence).
-
-
-1. [Data Preparation and Cleaning, Data Analysis and Visualization Part 1](https://github.com/Duyi00/Hotel-Cancellation-Prediction/blob/main/1015%20(Data%20Preparation%20and%20Cleaning%2C%20Data%20Analysis%20and%20Visualisation%20Part%201).ipynb)
-2. [Data Analysis and Visualization Part 2, Machine Learning](https://github.com/Duyi00/Hotel-Cancellation-Prediction/blob/main/1015%20(Data%20Analysis%20and%20Visualisation%20Part%202%2C%20Machine%20Learning).ipynb)
-
 
 ## Contributors
 
