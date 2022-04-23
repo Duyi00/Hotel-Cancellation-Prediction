@@ -31,6 +31,10 @@ This is a mini-project for SC1015 (Introduction to Data Science and Artificial I
 - Longer lead time and higher adr equates to higher chance of cancellation
 - Deposit type affects cancellation rate significantly
 
+## Recommendations
+
+- Lead time : Allow reservations up to 200 days in advance, chance of cancellation increases linearly from there to 400 days. 
+
 ## What did we learn from this project?
 
 - Using plotly express to create interactive visualisation
