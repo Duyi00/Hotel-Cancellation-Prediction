@@ -17,7 +17,7 @@ This is a mini-project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Problem Definition
 
-- Predict whether a reservation will be cancelled based on variables [to be determined]
+- Predict whether a hotel reservation will be cancelled based on variables [to be determined]
 - Which is the best prediction model
 
 ## Models Used
