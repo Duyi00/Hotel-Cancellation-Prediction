@@ -3,11 +3,17 @@
 ## About
 This is a mini-project for SC1015 (Introduction to Data Science and Artificial Intelligence).
 
+1. [Data Preparation and Cleaning]()
+2. [Data Analysis and Visualization Part 1]()
+3. [Data Analysis and Visualization Part 2]()
+4. [Machine Learning]()
+
 ## Contributors
 
 - @Duyi00 Data Preparation and Cleaning, Data Visualization
 - @zihan15 Machine Learning
 - @pebblepaw Data Preparation and Cleaning, Data Visualization
+
 
 ## Problem Definition
 
