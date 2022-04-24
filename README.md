@@ -1,55 +1,69 @@
-# Hotel-Cancellation-Prediction
+# Hotel Cancellation Prediction
 
-## About
+In this data science project, we will be utilising data from `hotel_bookings.csv` to answer the following question:
 
-This is a mini-project for SC1015 (Introduction to Data Science and Artificial Intelligence). The repository is split into three sections:
-
-1. Datasets: Contains the CSV file of dataset.
-2. 1015.ipynb: The notebook containing the code. Please **download and run the file**.
-3. HardRockHotelSG-Exterior.jpg: Picture for the markdown in the notebook.
-
-## Contributors
-
-- @Duyi00 Data Preparation and Cleaning, Data Visualization
-- @zihan15 Machine Learning
-- @pebblepaw Data Preparation and Cleaning, Data Visualization
+**Problem: Predict whether a Hotel Reservation will be Cancelled based on Variables _[To Be Determined]_**.
 
 
-## Problem Definition
+## Overview
+Our repository is split into **3** sections:
 
-- Predict whether a hotel reservation will be cancelled based on variables [to be determined]
-- Which is the best prediction model
 
-## Models Used
+- [Datasets](https://github.com/Duyi00/Hotel-Cancellation-Prediction/tree/main/Datasets): Contains the CSV file of dataset as well as a pdf document detailing what each variable represents.
+- [1015.ipynb](https://github.com/Duyi00/Hotel-Cancellation-Prediction/blob/main/1015.ipynb): The notebook containing the code. Please _**download and run the file**_, this will allow you to interact with our `plotly` express plots.
+- [HardRockHotelSG-Exterior.jpg](https://github.com/Duyi00/Hotel-Cancellation-Prediction/blob/main/HardRockHotelSG-Exterior.jpg): Picture for the markdown in the notebook.
 
-- Decision Tree Classifier
-- Random Forest Classifier
-- Gradient Boost Classifier
-- Ada Boost Classifier
-- Cat Boost Classifier
-- XGBoost Classifier
-- Logistic regression
 
-## Conclusion
+## 1015.ipynb
+Our notebook is split into **3** sections:
 
-- Random Forest Model is able to predict whether a reservation will be cancelled with 85% accuracy and low false positive rate (8%)
-- Random Forest is the most accurate out of all the models used
-- Longer lead time and higher adr equates to higher chance of cancellation
-- Deposit type affects cancellation rate significantly
+<div style="background-color: #ebf4f7; color: #595959; text-align:left; vertical-align: middle; padding: 15px 25px 15px 25px; line-height: 1.6;">
+<div style="font-size:20px"><b>1) Data Cleaning and Preparation</b></div>
+<p>Using <code>NumPy</code> and <code>Pandas</code>, we massaged the raw data into usable forms. Without going into details, we:</p>
+<ul>
+    <li>Handled Missing Data.</li>
+    <li>Removed Extreme Outliers.</li>
+    <li>Handled with `datetime` series to change it into desirable forms.</li>
+</ul>
+  <p> </p>
+<div style="font-size:20px"><b>2) Exploratory Data Analysis (EDA)</b></div>
+  <p>Performed EDA on <b>24</b> different variables. We utilised:</p>
+<ul>
+    <li>Plotly.</li>
+    <li>Seaborn.</li>
+    <li>Matplotlib.</li>
+</ul>
+  
+<div style="font-size:20px"><b>3) Machine Learning</b></div>
+  <p>Using <code>sciKit-learn</code>, we implemented models such as:</p>
+<ul>
+    <li>Decision Tree Classifier.</li>
+    <li>Random Forest Classifier.</li>
+    <li>Gradient Boost Classifier.</li>
+    <li>Ada Boost Classifier.</li>
+    <li>Cat Boost Classifier.</li>
+    <li>XGBoost Classifier.</li>
+    <li>Logistic regression.</li>
+</ul>
+    </div>
 
-## Recommendations
+
+## Conclusion and Recommendations
+
+In conclusion, we decided to utilise the **Random Forest Classifier** as our final model. This is due to its high accuracy of ~**85%** and relatively low False Positive Rate of ~**8%**.
+
+
+We have also came up with the following recommendations based on our findings to allow hotels maximise utilisation of their rooms.
 
 - Lead time : Allow reservations up to 200 days in advance, chance of cancellation increases linearly from there to 400 days. 
 - Day/Month : Thursday - Saturday especially during April - October have higher cancellation rates. Allow for more over-booking during this period.
 
-## What did we learn from this project?
 
-- Using plotly express to create interactive visualisation
-- Plotted geographical data with plotly chloropleth
-- Implemented one hot encoding for categorical data and time series
-- Implementing 5 new Machine Learning models for prediction 
-- Collaborating using GitHub
+## Authors
 
+- [@Duyi00](https://github.com/Duyi00): Data Preparation and Cleaning, Data Visualization.
+- [@zihan15](https://github.com/zihan15): Machine Learning.
+- [@pebblepaw](https://github.com/pebblepaw): Data Preparation and Cleaning, Data Visualization.
 
 ## References
 - <https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand>
