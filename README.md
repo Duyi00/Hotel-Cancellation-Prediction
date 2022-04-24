@@ -4,7 +4,7 @@ In this data science project, we will be utilising data from `hotel_bookings.csv
 
 **Problem: Predict whether a Hotel Reservation will be Cancelled based on Variables _[To Be Determined]_**.
 
-For a detailed walkthrough, please view our source code in order from: 
+For a detailed walkthrough, please view our source code in order from **(Please Click the Link!)**: 
 
 1. [Data Preparation](https://nbviewer.org/github/Duyi00/Hotel-Cancellation-Prediction/blob/main/data-preparation.ipynb)
 2. [Exploratory Analysis (Variables 1 to 12)](https://nbviewer.org/github/Duyi00/Hotel-Cancellation-Prediction/blob/main/exploratory-analysis-pt_1.ipynb)
@@ -17,7 +17,7 @@ Please note that the above hyper-links will open a notebook viewer, in order to 
 Our project is split into **3** sections:
 
 <div style="background-color: #ebf4f7; color: #595959; text-align:left; vertical-align: middle; padding: 15px 25px 15px 25px; line-height: 1.6;">
-<div style="font-size:20px"><b>1) Data Cleaning and Preparation</b></div>
+<div style="font-size:20px"><b>1. Data Cleaning and Preparation</b></div>
 <p>Using <code>NumPy</code> and <code>Pandas</code>, we massaged the raw data into usable forms. Without going into details, we:</p>
 <ul>
     <li>Handled Missing Data.</li>
@@ -25,13 +25,13 @@ Our project is split into **3** sections:
     <li>Handled with `datetime` series to change it into desirable forms.</li>
 </ul>
   <p> </p>
-<div style="font-size:20px"><b>2) Exploratory Data Analysis (EDA)</b></div>
+<div style="font-size:20px"><b>2. Exploratory Data Analysis (EDA)</b></div>
   <p>Performed EDA on <b>24</b> different variables. We utilised:</p>
 <ul>
     <li><code>Plotly</code>, <code>Seaborn</code>, <code>Matplotlib</code>.</li>
 </ul>
   
-<div style="font-size:20px"><b>3) Machine Learning</b></div>
+<div style="font-size:20px"><b>3. Machine Learning</b></div>
   <p>Using <code>sciKit-learn</code>, we implemented models such as:</p>
 <ul>
     <li>Decision Tree Classifier.</li>
