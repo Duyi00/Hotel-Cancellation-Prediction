@@ -22,7 +22,7 @@ Our project is split into **3** sections:
 <ul>
     <li>Handled Missing Data.</li>
     <li>Removed Extreme Outliers.</li>
-    <li>Handled with `datetime` series to change it into desirable forms.</li>
+    <li>Handled with datetime series to change it into desirable forms.</li>
 </ul>
   <p> </p>
 <div style="font-size:20px"><b>2. Exploratory Data Analysis (EDA)</b></div>
