@@ -4,7 +4,9 @@ In this data science project, we will be utilising data from `hotel_bookings.csv
 
 **Problem: Predict whether a Hotel Reservation will be Cancelled based on Variables _[To Be Determined]_**.
 
-For a detailed walkthrough, please view our source code in order from **(Please Click the Link!)**: 
+For a detailed walkthrough, please view our source code in order from:
+
+**(Please Click the Links Below!!!)**
 
 1. [Data Preparation](https://nbviewer.org/github/Duyi00/Hotel-Cancellation-Prediction/blob/main/data-preparation.ipynb)
 2. [Exploratory Analysis (Variables 1 to 12)](https://nbviewer.org/github/Duyi00/Hotel-Cancellation-Prediction/blob/main/exploratory-analysis-pt_1.ipynb)
