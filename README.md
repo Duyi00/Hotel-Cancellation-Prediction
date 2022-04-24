@@ -2,7 +2,11 @@
 
 ## About
 
-This is a mini-project for SC1015 (Introduction to Data Science and Artificial Intelligence).
+This is a mini-project for SC1015 (Introduction to Data Science and Artificial Intelligence). The repository is split into three sections:
+
+1. Datasets: Contains the CSV file of dataset.
+2. 1015.ipynb: The notebook containing the code. Please **download and run the file**.
+3. HardRockHotelSG-Exterior.jpg: Picture for the markdown in the notebook.
 
 ## Contributors
 
@@ -46,8 +50,6 @@ This is a mini-project for SC1015 (Introduction to Data Science and Artificial I
 - Implementing 5 new Machine Learning models for prediction 
 - Collaborating using GitHub
 
-## Note:
-- Interactive Plotly graphs do not show in github
 
 ## References
 - <https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand>
