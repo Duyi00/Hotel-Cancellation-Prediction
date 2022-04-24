@@ -10,7 +10,7 @@ Our repository is split into **3** sections:
 
 
 - [Datasets](https://github.com/Duyi00/Hotel-Cancellation-Prediction/tree/main/Datasets): Contains the CSV file of dataset as well as a pdf document detailing what each variable represents.
-- [1015.ipynb](https://github.com/Duyi00/Hotel-Cancellation-Prediction/blob/main/1015.ipynb): The notebook containing the code. Please _**download and run the file**_, this will allow you to interact with our `Plotly` express plots.
+- [1015.ipynb](https://github.com/Duyi00/Hotel-Cancellation-Prediction/blob/main/1015.ipynb): The notebook containing the code. Please _**download and run the file**_, this will allow you to visualise and interact with our `Plotly` express plots.
 - [HardRockHotelSG-Exterior.jpg](https://github.com/Duyi00/Hotel-Cancellation-Prediction/blob/main/HardRockHotelSG-Exterior.jpg): Picture for the markdown in the notebook.
 
 
