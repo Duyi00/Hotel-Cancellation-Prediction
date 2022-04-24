@@ -13,8 +13,8 @@ For a detailed walkthrough, please view our source code in order from:
 
 Please note that the above hyper-links will open a notebook viewer, in order to render the interactive Plotly figures.
 
-## 1015.ipynb
-Our notebook is split into **3** sections:
+## Overview 
+Our project is split into **3** sections:
 
 <div style="background-color: #ebf4f7; color: #595959; text-align:left; vertical-align: middle; padding: 15px 25px 15px 25px; line-height: 1.6;">
 <div style="font-size:20px"><b>1) Data Cleaning and Preparation</b></div>
@@ -50,7 +50,7 @@ Our notebook is split into **3** sections:
 In conclusion, we decided to utilise the **Random Forest Classifier** as our final model. This is due to its high accuracy of ~**85%** and relatively low False Positive Rate of ~**8%**.
 
 
-We have also came up with the following recommendations based on our findings to allow hotels maximise utilisation of their rooms.
+We have also came up with the following recommendations based on our findings to allow hotels to maximise utilisation of their rooms:
 
 - Lead time : Allow reservations up to 200 days in advance, chance of cancellation increases linearly from there to 400 days. 
 - Day/Month : Thursday - Saturday especially during April - October have higher cancellation rates. Allow for more over-booking during this period.
