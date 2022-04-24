@@ -4,7 +4,7 @@ In this data science project, we will be utilising data from `hotel_bookings.csv
 
 **Problem: Predict whether a Hotel Reservation will be Cancelled based on Variables _[To Be Determined]_**.
 
-For a detailed walkthrough, please view our source code in orde from: 
+For a detailed walkthrough, please view our source code in order from: 
 
 1. [Data Preparation](https://nbviewer.org/github/Duyi00/Hotel-Cancellation-Prediction/blob/main/data-preparation.ipynb)
 2. [Exploratory Analysis (Variables 1 to 12)](https://nbviewer.org/github/Duyi00/Hotel-Cancellation-Prediction/blob/main/exploratory-analysis-pt_1.ipynb)
@@ -12,12 +12,6 @@ For a detailed walkthrough, please view our source code in orde from:
 4. Machine Learning and Conclusion
 
 Please note that the above hyper-links will open a notebook viewer, in order to render the interactive Plotly figures.
-
-## Overview
-Our repository is split into **3** sections:
-- [Datasets](https://github.com/Duyi00/Hotel-Cancellation-Prediction/tree/main/Datasets): Contains the CSV file of dataset as well as a pdf document detailing what each variable represents.
-- [1015.ipynb](https://github.com/Duyi00/Hotel-Cancellation-Prediction/blob/main/1015.ipynb): The notebook containing the code. Please _**download and run the file**_, this will allow you to visualise and interact with our `Plotly` express plots.
-- [HardRockHotelSG-Exterior.jpg](https://github.com/Duyi00/Hotel-Cancellation-Prediction/blob/main/HardRockHotelSG-Exterior.jpg): Picture for the markdown in the notebook.
 
 ## 1015.ipynb
 Our notebook is split into **3** sections:
