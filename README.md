@@ -6,10 +6,10 @@ In this data science project, we will be utilising data from `hotel_bookings.csv
 
 For a detailed walkthrough, please view our source code in orde from: 
 
-1. [Data Preparation] (https://nbviewer.org/github/Duyi00/Hotel-Cancellation-Prediction/blob/main/data-preparation.ipynb)
-2. [Exploratory Analysis (Variables 1 to 12)] (https://nbviewer.org/github/Duyi00/Hotel-Cancellation-Prediction/blob/main/exploratory-analysis-pt_1.ipynb)
-3. [Exploratory Analysis (Variables 13 to 24)] (https://nbviewer.org/github/Duyi00/Hotel-Cancellation-Prediction/blob/main/exploratory-analysis-pt_2.ipynb)
-4. Machine Learning and Conclusion
+- [Data Preparation] (https://nbviewer.org/github/Duyi00/Hotel-Cancellation-Prediction/blob/main/data-preparation.ipynb)
+- [Exploratory Analysis (Variables 1 to 12)] (https://nbviewer.org/github/Duyi00/Hotel-Cancellation-Prediction/blob/main/exploratory-analysis-pt_1.ipynb)
+- [Exploratory Analysis (Variables 13 to 24)] (https://nbviewer.org/github/Duyi00/Hotel-Cancellation-Prediction/blob/main/exploratory-analysis-pt_2.ipynb)
+- Machine Learning and Conclusion
 
 Please note that the above hyper-links will open a notebook viewer, in order to render the interactive Plotly figures.
 
