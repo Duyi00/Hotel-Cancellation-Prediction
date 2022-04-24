@@ -9,7 +9,7 @@ For a detailed walkthrough, please view our source code in order from **(Please 
 1. [Data Preparation](https://nbviewer.org/github/Duyi00/Hotel-Cancellation-Prediction/blob/main/data-preparation.ipynb)
 2. [Exploratory Analysis (Variables 1 to 12)](https://nbviewer.org/github/Duyi00/Hotel-Cancellation-Prediction/blob/main/exploratory-analysis-pt_1.ipynb)
 3. [Exploratory Analysis (Variables 13 to 24)](https://nbviewer.org/github/Duyi00/Hotel-Cancellation-Prediction/blob/main/exploratory-analysis-pt_2.ipynb)
-4. Machine Learning and Conclusion
+4. [Machine Learning and Conclusion](https://nbviewer.org/github/Duyi00/Hotel-Cancellation-Prediction/blob/b9d984d96542008becdb5af5bcdea8d37339196d/machine%20learning%20and%20conclusion.ipynb)
 
 Please note that the above hyper-links will open a notebook viewer, in order to render the interactive Plotly figures.
 
